@@ -1,0 +1,24 @@
+.header {
+  text-align:
+}
+
+.homepage-pics {
+  display: flex;
+
+}
+
+.homepage {
+  height: 150px;
+}
+
+.image-header {
+  text-align: center;
+}
+
+body {
+  width: 90%;
+}
+
+img {
+  margin-left: 15px;
+}
