@@ -15,6 +15,23 @@
   text-align: center;
 }
 
+.accomodations {
+  display: flex;
+  list-style: none;
+}
+
+.accomodations li img {
+  height: 125px;
+}
+
+.accomodations li h3 {
+  padding-left: 15px;
+}
+
+.accomodations li h3:even {
+  padding-left: 25px;
+}
+
 body {
   width: 90%;
 }
